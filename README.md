@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Ghaniy, a junior web developer based in Indonesia
+
+Currently learning dataset to become a Data Analyst
+
+My Main tech is HTML and Javascript still learning for more skill
+
 <!--
 **ghnystsio/ghnystsio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
